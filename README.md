@@ -15,4 +15,4 @@ This project demonstrates how I analyzed financial and operational KPI data usin
 - **Python (pandas, matplotlib, pathlib)** for data cleaning, analysis, and visualization  
 - **Excel** as the source of KPI data  
 - Ensured accuracy by validating key fields (dates, revenue) before analysis  
-Add README
+
